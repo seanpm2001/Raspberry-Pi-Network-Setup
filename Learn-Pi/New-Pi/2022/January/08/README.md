@@ -11,13 +11,13 @@ I have recently assembled my CanaKit Raspberry Pi 4 (on 2022 January 7th) althou
 
 Some of my goals for today include:
 
-- [ ] 4K display: make it so I don't have to wear glasses AND strain my eyes to see what I am doing (I am really glad it is not an 8K or higher device because of this reason) In a nutshell: fix the display resolution
+- [x] 4K display: make it so I don't have to wear glasses AND strain my eyes to see what I am doing (I am really glad it is not an 8K or higher device because of this reason) In a nutshell: fix the display resolution (I have 2 1080p displays, so this wasn't an issue. I was using another device originally to test it. It will need to be looked at in the future though.)
 
 - [ ] Learn how to purge Chromium completely (delete it, and every single trace of it from the system, it should NOT have been a default browser)
 
 - [ ] Learn how to install programs
 
-- - [ ] Install VLC Media Player
+- - [x] Install VLC Media Player (already installed by default, just didn't notice it immediately)
 
 - - [ ] Install Firefox
 
@@ -25,8 +25,24 @@ Some of my goals for today include:
 
 - [ ] Other/unlisted/no other entries
 
+What I learnt today (by experimentation):
+
+- [x] Pinning programs to the desktop
+
+- [x] Changing the wallpaper (I actually learnt this on January 7th)
+
+- [x] The cool installed programs and programming environments (Mathematica, Python, Scratch 1.4, 2.0, AND 3.0, Java, Sonic Pi, and more)
+
+- - [x] Additional but unrelated: Python knowledge: I can't believe I didn't know this earlier, but print statements cannot have a space on char 6 (eg: `print ("Hello World")` is wrong, and `print("Hello World")` is right. I was always told it was optional, but strict Python interpreters enforce this)
+
+- [x] That the rainbow screen is normal, and the system takes a long time to start up (my configuration runs entirely off an SD card, it does not contain an HDD or SSD)
+
+- [x] That VLC Media Player is pre-installed
+
+I didn't spend much time on these goals today, I will try to get to them another time.
+
 ***
 
-**File version:** `1 (2022, Saturday, January 8th at 12:16 am)`
+**File version:** `2 (2022, Sunday, January 9th at 1:24 am)`
 
 ***
