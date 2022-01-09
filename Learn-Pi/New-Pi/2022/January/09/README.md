@@ -5,9 +5,9 @@
 
 ## Day 3
 
-( [View yesterdays entry](/Learn-Pi/New-Pi/2022/January/08/) | [View tomorrows entry](/Learn-Pi/New-Pi/2022/January/10/) )
-
 ### 2022 January 9th
+
+( [View yesterdays entry](/Learn-Pi/New-Pi/2022/January/08/) | [View tomorrows entry](/Learn-Pi/New-Pi/2022/January/10/) )
 
 It has been decided that goals will be split across 7 day intervals, as I can't get to everything in one day.
 
@@ -60,6 +60,6 @@ Old, but needs revisit
 
 ***
 
-**File version:** `1 (2022, Sunday, January 9th at 1:40 am)`
+**File version:** `2 (2022, Sunday, January 9th at 1:49 am)`
 
 ***
