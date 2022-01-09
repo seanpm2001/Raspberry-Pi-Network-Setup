@@ -7,6 +7,8 @@
 
 ### 2022 January 8th
 
+( [View yesterdays entry (day 1)](/Learn-Pi/New-Pi/2022/January/07/) | [View tomorrows entry (day 3)](/Learn-Pi/New-Pi/2022/January/09/) )
+
 I have recently assembled my CanaKit Raspberry Pi 4 (on 2022 January 7th) although mostly pre-assembled, it was the first time I have built a computer. I have a lot to learn about it. It feels like I am getting into `REAL` Linux, maybe it is just the difficulty of the display that is off setting me.
 
 Some of my goals for today include:
@@ -15,7 +17,7 @@ Some of my goals for today include:
 
 - [ ] Learn how to purge Chromium completely (delete it, and every single trace of it from the system, it should NOT have been a default browser)
 
-- [ ] Learn how to install programs
+- [x] Learn how to install programs
 
 - - [x] Install VLC Media Player (already installed by default, just didn't notice it immediately)
 
@@ -43,6 +45,6 @@ I didn't spend much time on these goals today, I will try to get to them another
 
 ***
 
-**File version:** `2 (2022, Sunday, January 9th at 1:24 am)`
+**File version:** `3 (2022, Sunday, January 9th at 1:44 am)`
 
 ***
