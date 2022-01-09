@@ -7,6 +7,8 @@
 
 ### 2022 January 7th
 
+( **No older entries** | [View tomorrows entry (day 2)](/Learn-Pi/New-Pi/2022/January/08/) )
+
 I have assembled my CanaKit Raspberry Pi 4 today. Although mostly pre-assembled, it was the first time I have built a computer. I have a lot to learn about it. With some tinkering, I have learnt a few things today.
 
 ### Previous knowledge
@@ -63,6 +65,6 @@ I have assembled my CanaKit Raspberry Pi 4 today. Although mostly pre-assembled,
 
 ***
 
-**File version:** `1 (2022, Saturday, January 8th at 12:35 am)`
+**File version:** `2 (2022, Sunday, January 9th at 1:46 am)`
 
 ***
