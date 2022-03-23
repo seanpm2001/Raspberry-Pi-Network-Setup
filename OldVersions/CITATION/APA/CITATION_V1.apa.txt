@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). SeanPM2001s documentation for the Raspberry Pi platform, related images, and build scripts for a personal project. A network of Raspberry PI devices. [Data set]. https://doi.org/10.0000/00000
