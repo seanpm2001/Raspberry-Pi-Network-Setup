@@ -1,0 +1,101 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# HTML
+*.htm linguist-detectable=false
+*.htm linguist-documentation=false
+*.html linguist-detectable=false
+*.html linguist-documentation=false
+*.mhtm linguist-detectable=false
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=false
+*.mhtml linguist-documentation=false
+*.xhtm linguist-detectable=false
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=false
+*.xhtml linguist-documentation=false
+# HTML Application
+*.hta linguist-detectable=false
+*.hta linguist-documentation=false
+# Makefile
+*.mk linguist-documentation=false
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
+# YAML
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# ReStructuredText
+*.rst linguist-detectable=false
+*.rst linguist-documentation=false
+# C
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+# JSON
+*.json linguist-detectable=false
+*.json linguist-documentation=false
+# Mathematica
+*.m linguist-detectable=true
+*.m linguist-documentation=false
+*.nb linguist-detectable=true
+*.nb linguist-documentation=false
+# SVG
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# WikiText (MediaWiki)
+*.wiki linguist-detectable=false
+*.wiki linguist-documentation=false
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Plain Text
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
+# INI
+*.ini linguist-detectable=false
+*.ini linguist-documentation=false
+# KDE Desktop entry
+*.desktop linguist-detectable=false
+*.desktop linguist-documentation=false
+# Python
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+# Shell
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
+# Gitconfig
+*.editorconfig linguist-detectable=false
+*.editorconfig linguist-documentation=false
+*.gitattributes linguist-detectable=false
+*.gitattributes linguist-documentation=false
+*.gitignore linguist-detectable=false
+*.gitignore linguist-documentation=false
+*.gitmodules linguist-detectable=false
+*.gitmodules linguist-documentation=false
+# All-Contributors
+*.all-contributorsrc linguist-detectable=false
+*.all-contributorsrc linguist-documentation=false
+*.all-contributorsrc.json linguist-detectable=false
+*.all-contributorsrc.json linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (*.gitattributes)
+# File version: 1 (2022, Wednesday, March 23rd at 3:51 pm PST)
+# Line count (including blank lines and compiler line): 102
+# End of script
