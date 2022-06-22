@@ -4,13 +4,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
-# <projectName>
+# Raspberry-Pi-Network-Setup
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![RaspberryPi_SpaceBerryIcon.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/RaspberryPi_SpaceBerryIcon.png)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+[Seanpm2001](https://github.com/seanpm2001/), et al.
 
 ### Top
 
@@ -30,13 +30,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#Raspberry-Pi-Network-Setup)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#Raspberry-Pi-Network-Setup)
 
 [02.0 - About](#About)
 
@@ -74,20 +74,20 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
+# Raspberry-Pi-Network-Setup
+My personal and professional Raspberry Pi setups.
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This is my core Raspberry Pi repository. Originally, it was only used for setup scripts, but now a daily Raspberry Pi blog is in use [here](/Learn-Pi/New-Pi/) it has since become one of the core focuses of this project.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/Raspberry-Pi-Network-Setup/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -97,7 +97,7 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ![SponsorButton.png](SponsorButton.png)
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
 
 You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
 
@@ -131,11 +131,13 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 ## Contributers
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Currently, I am the only contributer (besides 1 bot) Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [@seanpm2001](https://github.com/seanpm2001/) - 509 commits (As of 2022, Wednesday, June 22nd at 4:05 pm PST)
 
-> * 2. No other contributers.
+> * 2. [@all-contributors[bot]](https://github.com/all-contributors/) - 4 commits (As of 2022, Wednesday, June 22nd at 4:05 pm PST)
+
+> * 3. No other contributers.
 
 ***
 
@@ -203,9 +205,15 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file A (C)](/PROJECT_LANG_1.c)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Project language file B (Shell)](/PROJECT_LANG_2.sh)
+
+[Project language file C (Python)](/PROJECT_LANG_3.py)
+
+[Project language file D (Ruby)](/PROJECT_LANG_4.rb)
+
+[Join the discussion on GitHub](https://github.com/seanpm2001/Raspberry-Pi-Network-Setup/discussions/)
 
 No other resources at the moment.
 
@@ -215,17 +223,19 @@ No other resources at the moment.
 
 Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
 
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
 
 ***
 
 ## About README
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+**File version:** `3 (2022, Wednesday, June 22nd at 4:05 pm PST)`
 
-Line count: `0,296`
+**Line count (including blank lines and compiler line):** `0,380`
+
+**Current article language:** `English (USA)`
 
 ***
 
@@ -271,21 +281,71 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2022, January 21st at 4:00 pm PST)
+
+**This version was created by:** [`@all-contributors`](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Credited @seanpm2001 as a contributor
+
+> * Added the all-contributors badge
+
+> * Added the all-contributors section
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (2022, January 21st at 4:15 pm PST)
+
+**This version was created by:** [`@all-contributors`](https://github.com/all-contributors/)
+
+> Changes:
+
+> * Credited @all-contributors as a contributor
+
+> * Updated the all-contributors badge
+
+> * Updated the all-contributors section
+
+> * No other changes in version 2
+
+Version 3 (2022, Wednesday, June 22nd at 4:05 pm PST)
+
+**This version was created by:** [`@seanpm2001`](https://github.com/seampm2001/)
+
+> Changes:
+
+> * Referenced the project icon
+
+> * Updated the title section
+
+> * Updated the about section
+
+> * Updated the description section
+
+> * Updated the Wiki section
+
+> * Updated the sponsor info section
+
+> * Updated the resources section
+
+> * Updated the contributing section
+
+> * Updated the contributors section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 3
+
+Version 4 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 4
 
 ***
 
