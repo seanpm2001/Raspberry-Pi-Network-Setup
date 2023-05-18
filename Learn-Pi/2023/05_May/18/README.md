@@ -5,7 +5,7 @@
     <img alt="Raspberry Pi logo failed to load. Click/tap here to attempt to view it" src="/RaspberryPi_SpaceBerryIcon.png" width="256" height="256" class="center"/>
     <H1><a href="https://github.com/seanpm2001/">Seanpm2001</a> Daily Raspberry Pi 4 blog</H1>
     <p><i>Formerly:</i> <b>Learning Raspberry Pi OS/RaspbianOS and Raspberry Pi 4</b></p>
-    <H2>Day 495</H2>
+    <H2>Day 496</H2>
     <!-- TODO
     REPLACE THE LOGO WITH A 404 IMAGE FOR 404 DAY
     !-->
@@ -13,13 +13,13 @@
 https://duckduckgo.com/?q=Days+since+January+7th+2022&t=ffab&ia=answer
 Check 2022.11.30: Day 327 (verified)
     !-->
-    <H3>2023, Wednesday, May 17th</H3>
+    <H3>2023, Thursday, May 18th</H3>
 </div>
 
 ---
 
 <div align="center">
-    <p><b>(</b> <a href="/Learn-Pi/2023/05_May/16/"><code>View yesterdays entry (2023, Tuesday, May 16th)</code></a> <b>|</b> <b>Today</b> <code>2023, Wednesday, May 17th</code> <b>|</b> <a href="/Learn-Pi/2023/05_May/18/"><code>View tomorrows entry (2023, Thursday, May 18th)</code></a> <b>)</b></p>
+    <p><b>(</b> <a href="/Learn-Pi/2023/05_May/17/"><code>View yesterdays entry (2023, Wednesday, May 17th)</code></a> <b>|</b> <b>Today</b> <code>2023, Thursday, May 18th</code> <b>|</b> <a href="/Learn-Pi/2023/05_May/19/"><code>View tomorrows entry (2023, Friday, May 19th)</code></a> <b>)</b></p>
 </div>
 
 | Ranking | My top Raspberry Pi repositories | Its Purpose |
@@ -1639,6 +1639,8 @@ I did not use my Raspberry Pi yet again today, but I did update the Raspberry Pi
 ##### 2023 May 18th
 
 I did not use my Raspberry Pi yet again today, but I did update the Raspberry Pi blog for a 79th consecutive day, despite there being nothing to write about. I am reconsidering the update schedule for the separate Raspberry Pi blog repository, I am considering only updating it once per month. The daily blog will still be updated daily, it just won't be copied over to the [:octocat: `other repository`](https://github.com/seanpm2001/RaspberryPi-Blog/).
+
+I had to update the blog file twice today, as I originally forgot to update the header.
 
 ##### 2023 May 19th
 
@@ -3388,17 +3390,17 @@ This section has been moved to save space. [`Click/tap here to view it`](/Docs/L
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Thursday, May 18th at 1:22 pm PST)`
+**File version:** `2 (2023, Thursday, May 18th at 1:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,416`
+**Line count (including blank lines and compiler line):** `3,418`
 
-**Word count:** `25,226`
+**Word count:** `25,243`
 
-**Character count (including spaces):** `148,582`
+**Character count (including spaces):** `148,669`
 
-**Character count (excluding spaces):** `123,416`
+**Character count (excluding spaces):** `123,485`
 
-**Size (in bytes):** `148,901`
+**Size (in bytes):** `148,988`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
