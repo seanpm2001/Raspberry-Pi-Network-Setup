@@ -5,7 +5,7 @@
     <img alt="Raspberry Pi logo failed to load. Click/tap here to attempt to view it" src="/RaspberryPi_SpaceBerryIcon.png" width="256" height="256" class="center"/>
     <H1><a href="https://github.com/seanpm2001/">Seanpm2001</a> Daily Raspberry Pi 4 blog</H1>
     <p><i>Formerly:</i> <b>Learning Raspberry Pi OS/RaspbianOS and Raspberry Pi 4</b></p>
-    <H2>Day 524</H2>
+    <H2>Day 525</H2>
     <!-- TODO
     REPLACE THE LOGO WITH A 404 IMAGE FOR 404 DAY
     !-->
@@ -13,13 +13,13 @@
 https://duckduckgo.com/?q=Days+since+January+7th+2022&t=ffab&ia=answer
 Check 2022.11.30: Day 327 (verified)
     !-->
-    <H3>2023, Wednesday, June 14th</H3>
+    <H3>2023, Thursday, June 15th</H3>
 </div>
 
 ---
 
 <div align="center">
-    <p><b>(</b> <a href="/Learn-Pi/2023/06_June/13/"><code>View yesterdays entry (2023, Tuesday, June 13th)</code></a> <b>|</b> <b>Today</b> <code>2023, Wednesday, June 14th</code> <b>|</b> <a href="/Learn-Pi/2023/06_June/15/"><code>View tomorrows entry (2023, Thursday, June 15th)</code></a> <b>)</b></p>
+    <p><b>(</b> <a href="/Learn-Pi/2023/06_June/14/"><code>View yesterdays entry (2023, Wednesday, June 14th)</code></a> <b>|</b> <b>Today</b> <code>2023, Thursday, June 15th</code> <b>|</b> <a href="/Learn-Pi/2023/06_June/16/"><code>View tomorrows entry (2023, Friday, June 16th)</code></a> <b>)</b></p>
 </div>
 
 | Ranking | My top Raspberry Pi repositories | Its Purpose |
@@ -1789,7 +1789,7 @@ I went and booted up my Raspberry Pi today, but didn't use it. I have had lots o
 
 ### [2023 June 15th](#2023-June-15th)
 
-No data available for today yet. Check a later entry.
+My Raspberry Pi was left idle today. I wanted to use it, but I had a dentist appointment, was a bit distracted, and am also severely bogged down by having to use 2 keyboards at once. Until I can get a system repair, or a computer with no hardware input problems, I might have to cut lots of leisure activities and get less sleep. The Raspberry Pi unfortunately isn't a backup option, as it is too low spec, and isn't capable of getting a web browser that is new enough to access GitHub. I also updated the Raspberry Pi blog for a 107th consecutive day. I hope to eventually regain access to the files on my Pangolin. It is being sent back to the manufacturer for repair soon.
 
 ### [2023 June 16th](#2023-June-16th)
 
@@ -3427,17 +3427,17 @@ This section has been moved to save space. [`Click/tap here to view it`](/Docs/L
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Wednesday, June 14th at 10:49 pm PST)`
+**File version:** `1 (2023, Thursday, June 15th at 11:04 pm PST)`
 
 **Line count (including blank lines and compiler line):** `3,912`
 
-**Word count:** `32,021`
+**Word count:** `32,141`
 
-**Character count (including spaces):** `191,894`
+**Character count (including spaces):** `192,512`
 
-**Character count (excluding spaces):** `160,726`
+**Character count (excluding spaces):** `161,226`
 
-**Size (in bytes):** `192,213`
+**Size (in bytes):** `192,831`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3457,7 +3457,7 @@ This section has been moved to save space. [`Click/tap here to view it`](/Docs/L
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-<details><summary><p lang="en"><b>Version 1 (2023, Wednesday, June 14th at 10:49 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 1 (2023, Thursday, June 15th at 11:04 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
